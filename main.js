@@ -19,10 +19,10 @@ const perguntas = [
         ]
     },
     {
-        enunciado: "Métodos de contracepção natural e métodos de contracepção comportamental podem ser alternativas ",
+        enunciado: "Métodos de contracepção natural e métodos de contracepção comportamental podem ser alternativas para aqueles que preferem evitar métodos hormonais ou dispositivos.",
   alternativas: [
             {
-                texto: "Utiliza uma ferramenta de busca na internet que utiliza IA para que ela ajude a encontrar informações relevantes para o trabalho e explique numa linguagem que facilite o entendimento.",
+                texto: "Métodos de contracepção natural, como o método de temperatura basal e o método do muco cervical,.",
                 afirmacao: "Conseguiu utilizar a IA para buscar informações úteis."
             },
             {
