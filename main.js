@@ -19,15 +19,15 @@ const perguntas = [
         ]
     },
     {
-        enunciado: "Métodos de contracepção natural e métodos de contracepção comportamental podem ser alternativas para aqueles que preferem evitar métodos hormonais ou dispositivos.",
+        enunciado: "Métodos de contracepção natural e métodos de contracepção comportamental podem ser alternativas para aqueles que preferem evitar métodos hormonais ou dispositivos",
   alternativas: [
             {
-                texto: "Métodos de contracepção natural, como o método de temperatura basal e o método do muco cervical,.",
-                afirmacao: "Conseguiu utilizar a IA para buscar informações úteis."
+                texto: "Métodos de contracepção natural, como o método de temperatura basal e o método do muco cervical, são baseados na observação dos sinais do corpo para identificar os períodos férteís e não ter relaçoẽs sexuais durante esses s períodos. Esses métodos podem ser atraentes para quem deseja evitar o uso de hormônios e dispositivos, e também podem contribuir para uma maior compreensão do próprio ciclo menstrual. No entanto, a eficácia desses métodos pode ser reduzida se não forem seguidos com rigor.",
+                afirmacao: "Métodos de contracepção natural oferecem uma alternativa aos métodos hormonais e dispositivos, mas sua eficácia depende de um monitoramento e consistente dos sinais corporais."
             },
             {
-                texto: "Escreve o trabalho com base nas conversas que teve com colegas, algumas pesquisas na internet e conhecimentos próprios sobre o tema.",
-                afirmacao: "Sentiu mais facilidade em utilizar seus próprios recursos para escrever seu trabalho."
+                texto: "Métodos de contracepção comportamental, como a abstinência periódica e a técnica do calendário, envolvem o uso de técnicas para evitar a gravidez sem recorrer a métodos contraceptivos tradicionais. Esses métodos requerem que os indivíduos monitorem os ciclos menstruais e evitem relações sexuais durante os períodos férteis para reduzir o risco de gravidez. Eles são uma opção para quem busca uma abordagem menos invasiva e natural, embora a adesão correta seja essencial para alcançar a eficácia desejada.",
+                afirmacao: "Métodos de contracepção comportamental podem servir como uma alternativa aos métodos tradicionais, exigindo um alto grau de comprometimento e precisão para serem eficazes na prevenção da gravidez."
             }
         ]
     },
